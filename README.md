@@ -1,7 +1,8 @@
 # JSONMedicamentos
 JSON contendo informações sobre medicamentos.
 
-'''json
+### Estrutura do JSON
+```json
 [
   {
     "referencia": "Proflam",
@@ -11,5 +12,4 @@ JSON contendo informações sobre medicamentos.
     "concentracao": "100 MG COMPRIMIDO REVESTIDO"
   }
 ]
-
-'''
+```
